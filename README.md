@@ -1,10 +1,20 @@
 # Source-Code for Submission "Groundings of Drifters in the Wadden Sea Inform the Transport of Floating Macroplastic"
 
-Marc Schneiter, ORCID https://orcid.org/0009-0002-6450-4171
+## Author References & Funding
+
+* Repository citation DOI https://doi.org/10.5281/zenodo.17865410
+
+* Main author: Marc Schneiter, PhD candidate (m.e.schneiter-at-uu.nl) ORCID https://orcid.org/0009-0002-6450-4171
+
+* Supervision PhD: Erik van Sebille (e.vansebille-at-uu.nl)
+
+* Co-Supervision PhD: Rolf Hut (R.W.Hut-at-tudelft.nl)
+
+The research project is part of the Vici ENW programme ['Tracing Marine Macroplastics by Unraveling the Ocean's Multiscale Transport Processes'](https://www.nwo.nl/en/projects/vic222025)
 
 ## Location of figures in the paper
 
-| Name | Notebook number |
+| Name | Notebook |
 | - | - |
 | Figure 1 | [2_1_plots_campaign_summary_example_trajectory](2_1_plots_campaign_summary_example_trajectory.ipynb) |
 | Figure 2 | [2_1_plots_campaign_summary](2_1_plots_campaign_summary.ipynb) |
@@ -16,7 +26,7 @@ Marc Schneiter, ORCID https://orcid.org/0009-0002-6450-4171
 | Figure 8 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 | Figure D1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 
-Remark: Figure D1 requires the execution of [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) with different parameters
+Remark: Figure D1 requires running [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) with different parameters
 
 ## Notebooks structure
 
