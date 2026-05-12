@@ -1,5 +1,4 @@
-tag,Beaching,B,Idea: add small overview map to plot to know region / check if beach is popular for visitors
-,Drying,D,
+tag,Drying,D,
 ,Wetting,W,
 ,Other,O,
 ,,,
@@ -14,7 +13,7 @@ ts_name,ind_start,tag,comment
 1_0,1209,W,
 1_0,1215,D,
 1_0,1229,W,Slow start
-1_0,1258,B,
+1_0,1258,D,
 2_0,118,D,
 2_0,147,W,Slow start
 2_0,868,D,
@@ -23,7 +22,7 @@ ts_name,ind_start,tag,comment
 2_0,915,O,Close to W but short and directional
 2_0,924,O,Close to D but short
 2_0,927,O,Close to W but short
-2_0,932,B,
+2_0,932,D,
 3_0,432,O,"Position close to beach, probably close to B"
 4_0,1059,O,Close to D but short and directional
 4_0,1066,O,Close to W but short and directional
@@ -31,7 +30,7 @@ ts_name,ind_start,tag,comment
 4_0,1208,W,
 4_0,1215,D,
 4_0,1228,W,Slow start
-4_0,1257,B,
+4_0,1257,D,
 5_0,63,O,Start slow turn
 5_0,66,O,End slow turn
 5_0,195,D,
@@ -71,7 +70,7 @@ ts_name,ind_start,tag,comment
 10_0,1334,O,Close to W but short
 10_0,1732,O,Start uneven turn
 10_0,1740,O,Stop uneven turn
-10_0,1857,B,
+10_0,1857,D,
 11_0,932,O,Start slow turn
 11_0,940,O,Stop slow turn
 11_0,1004,D,
@@ -110,7 +109,7 @@ ts_name,ind_start,tag,comment
 12_0,520,O,Stop uneven turn
 12_0,604,O,Start uneven turn
 12_0,611,O,Stop uneven turn
-12_0,755,B,
+12_0,755,D,
 13_0,561,O,Start uneven turn
 13_0,574,O,Stop uneven turn
 13_0,636,O,Start uneven turn
@@ -120,14 +119,14 @@ ts_name,ind_start,tag,comment
 13_0,1175,W,
 13_0,1182,D,
 13_0,1197,W,Slow start
-13_0,1224,B,
+13_0,1224,D,
 15_0,70,O,Start slow and uneven turn
 15_0,87,O,Stop slow and uneven turn
 15_0,1123,D,
 15_0,1186,W,
 15_0,1188,D,
 15_0,1198,W,Slow start
-15_0,1226,B,
+15_0,1226,D,
 16_0,68,O,Start slow and uneven turn
 16_0,74,O,Stop slow and uneven turn
 16_0,494,O,Start uneven turn
@@ -137,7 +136,7 @@ ts_name,ind_start,tag,comment
 16_0,1157,O,Unclear: Trace looks unphysical
 16_0,1294,D,
 16_0,1299,W,
-16_0,1816,B,Immediate beaching from deeper water
+16_0,1816,D,Immediate beaching from deeper water
 17_0,628,D,
 17_0,643,W,Slow start
 17_0,745,D,Short time and distance displacement during time grounded
@@ -165,14 +164,14 @@ ts_name,ind_start,tag,comment
 18_0,1189,O,Close to W but short and directional
 18_0,1206,D,
 18_0,1223,W,
-18_0,1238,B,
+18_0,1238,D,
 19_0,117,D,
 19_0,149,W,Slow start
 19_0,548,O,Start uneven turn
 19_0,551,O,Stop uneven turn
 19_0,687,O,Start uneven turn
 19_0,690,O,Stop uneven turn
-19_0,813,B,
+19_0,813,D,
 19_0,901,O,Short displacement likely carried
 19_0,1077,O,Short displacement likely carried
 20_0,635,O,Start slow and narrow turn
@@ -181,7 +180,7 @@ ts_name,ind_start,tag,comment
 20_0,1161,W,Slow start
 20_0,1162,O,Close to D but directional and slow
 20_0,1203,O,Close to W but directional and slow
-20_0,1225,B,
+20_0,1225,D,
 21_0,124,D,
 21_0,149,W,Slow start
 21_0,253,D,
@@ -192,7 +191,7 @@ ts_name,ind_start,tag,comment
 21_0,594,W,Slow uneven start
 21_0,955,D,
 21_0,1059,W,Could well be carried to B
-21_0,1070,B,
+21_0,1070,D,
 22_0,571,O,Start slow and uneven turn
 22_0,578,O,Stop slow and uneven turn
 22_0,720,O,Start slow and uneven turn
@@ -213,7 +212,7 @@ ts_name,ind_start,tag,comment
 22_0,2342,W,
 22_0,2366,O,Start slow turn
 22_0,2370,O,Stop slow turn
-22_0,2389,B,
+22_0,2389,D,
 23_0,480,O,Start slow and uneven turn
 23_0,487,O,Stop slow and uneven turn
 23_0,1018,O,Start slow and uneven turn
@@ -222,8 +221,8 @@ ts_name,ind_start,tag,comment
 23_0,1168,W,
 23_0,1176,D,
 23_0,1188,W,Slow start
-23_0,1213,B,
-24_0,182,B,
+23_0,1213,D,
+24_0,182,D,
 25_0,81,D,Slow stop
 25_0,288,O,Picked up
 25_0,295,O,Put down
@@ -238,10 +237,10 @@ ts_name,ind_start,tag,comment
 26_0,1179,W,
 26_0,1200,D,Slow stop
 26_0,1213,W,
-26_0,1226,B,
+26_0,1226,D,
 27_0,114,D,
 27_0,147,W,Slow start
-27_0,794,B,
+27_0,794,D,
 27_0,908,O,Picked up (likely)
 28_0,630,O,Start slow turn
 28_0,635,O,Stop slow turn
@@ -260,14 +259,14 @@ ts_name,ind_start,tag,comment
 28_0,2489,W,Slow start
 28_0,2513,O,Slow displacement
 28_0,2526,O,Slow turn
-28_0,2541,B,
+28_0,2541,D,
 29_0,713,O,Start slow turn
 29_0,721,O,Stop slow turn
 29_0,1106,D,
 29_0,1170,W,Slow start
 29_0,1181,D,
 29_0,1188,W,
-29_0,1207,B,
+29_0,1207,D,
 30_0,491,O,Start slow turn
 30_0,495,O,Stop slow turn
 30_0,1122,D,

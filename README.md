@@ -2,7 +2,7 @@
 
 ## Author References & Funding
 
-* Repository citation DOI https://doi.org/10.5281/zenodo.17865410
+* Repository citation DOI https://doi.org/10.5281/zenodo.17865410 [TODO: update reference for final submission?]
 
 * Main author: Marc Schneiter, PhD candidate (m.e.schneiter-at-uu.nl) ORCID https://orcid.org/0009-0002-6450-4171
 
@@ -10,17 +10,19 @@
 
 * Co-Supervision PhD: Rolf Hut (R.W.Hut-at-tudelft.nl)
 
+* Author of coding file data/in/waddendrifters2023_grounding_events_manual_coding_validation.csv: Jimena Medina Rubio (j.medinarubio-at-uu.nl)
+
 The research project is part of the Vici ENW programme ['Tracing Marine Macroplastics by Unraveling the Ocean's Multiscale Transport Processes'](https://www.nwo.nl/en/projects/vic222025)
 
 ## Location of figures in the paper
 
 | Name | Notebook |
 | - | - |
-| Figure 1 | [2_1_plots_campaign_summary_example_trajectory](2_1_plots_campaign_summary_example_trajectory.ipynb) |
-| Figure 2 | [2_1_plots_campaign_summary](2_1_plots_campaign_summary.ipynb) |
-| Figure 3 | [2_1_plots_campaign_summary](2_1_plots_campaign_summary.ipynb) |
-| Figure 4 | [2_1_plots_campaign_summary](2_1_plots_campaign_summary.ipynb) |
-| Figure 5 | [2_1_grounding_statistic](2_1_grounding_statistic.ipynb) |
+| Figure 1 | [2_1_campaign_summary_plots_example_trajectory](2_1_campaign_summary_plots_example_trajectory.ipynb) |
+| Figure 2 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure 3 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure 4 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure 5 | [2_1_grounding_detection](2_1_grounding_detection.ipynb) |
 | Figure 6 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 | Figure 7 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 | Figure 8 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |

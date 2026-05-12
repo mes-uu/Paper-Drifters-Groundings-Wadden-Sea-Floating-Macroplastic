@@ -36,9 +36,10 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import cartopy.crs as ccrs
 import cartopy.feature as cfeature
+import cartopy.io.img_tiles as cimgt
 from cartopy.mpl.gridliner import LONGITUDE_FORMATTER, LATITUDE_FORMATTER
 
-def map_plot(title="", figsize=(10,8), add_land_coastline=[True,True], extent=None, grid_ticks=None, colors=[]): #[(0.86,1.,0.73),(0.69,0.77,0.8),'gold']
+def map_plot(title="", figsize=(10,8), add_land_coastline=[True,True], extent=None, grid_ticks=None, colors=[], add_tiles=False): #[(0.86,1.,0.73),(0.69,0.77,0.8),'gold']
   fig = plt.figure(figsize=figsize)
   ax = plt.axes(projection=ccrs.PlateCarree())
   if add_land_coastline[0]:
@@ -53,9 +54,6 @@ def map_plot(title="", figsize=(10,8), add_land_coastline=[True,True], extent=No
     else:
       ax.add_feature(cfeature.LAND.with_scale('10m'))
   gl = ax.gridlines(draw_labels=['left','bottom'])
-  #gl = ax.gridlines(crs=ccrs.PlateCarree(), draw_labels=True, linewidth=2, color='gray', alpha=0.5, linestyle='--')
-  #gl.xlabel_style = {'size': 15, 'color': 'gray'}
-  #gl.xlabel_style = {'color': 'red', 'weight': 'bold'}
   if extent:
     ax.set_xlim(extent[0])
     ax.set_ylim(extent[1])
@@ -64,10 +62,9 @@ def map_plot(title="", figsize=(10,8), add_land_coastline=[True,True], extent=No
       gl.ylocator = mticker.FixedLocator(np.linspace(extent[1][0],extent[1][1],grid_ticks[1]))
       gl.xformatter = LONGITUDE_FORMATTER
       gl.yformatter = LATITUDE_FORMATTER
-      #ax.set_xticks(np.linspace(extent[0][0],extent[0][1],grid_ticks[0]))
-      #ax.set_yticks(np.linspace(extent[1][0],extent[1][1],grid_ticks[1]))
-      #gl.xlocator = mticker.FixedLocator(np.linspace(extent[0][0],extent[0][1],grid_ticks[0]))
-      #gl.ylocator = mticker.FixedLocator(np.linspace(extent[1][0],extent[1][1],grid_ticks[1]))
+  if add_tiles:
+    tiles = cimgt.OSM()
+    ax.add_image(tiles, 19)
   if title:
     ax.set_title(title)
   return fig, ax
