@@ -2,6 +2,7 @@ tags,Drying,D,,
 ,Wetting,W,,
 ,Other,O,,
 ,,,,
+,,,,
 ts_name,ind_start,tag,comment,edit notes
 1_0,186,O,start grounding event of less than 6 timesteps,
 1_0,190,O,end grounding event of less than 6 timesteps,

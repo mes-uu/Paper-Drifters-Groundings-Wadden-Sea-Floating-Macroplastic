@@ -1,273 +1,274 @@
-tag,Drying,D,
-,Wetting,W,
-,Other,O,
-,,,
-ts_name,ind_start,tag,comment
-0_0,668,D,
-0_0,686,W,
-0_0,933,D,
-0_0,1505,W,
-1_0,920,O,Close to D but short and directional
-1_0,923,O,Close to W but short and directional
-1_0,1157,D,
-1_0,1209,W,
-1_0,1215,D,
-1_0,1229,W,Slow start
-1_0,1258,D,
-2_0,118,D,
-2_0,147,W,Slow start
-2_0,868,D,
-2_0,902,W,
-2_0,908,O,Close to D but short and directional
-2_0,915,O,Close to W but short and directional
-2_0,924,O,Close to D but short
-2_0,927,O,Close to W but short
-2_0,932,D,
-3_0,432,O,"Position close to beach, probably close to B"
-4_0,1059,O,Close to D but short and directional
-4_0,1066,O,Close to W but short and directional
-4_0,1157,D,
-4_0,1208,W,
-4_0,1215,D,
-4_0,1228,W,Slow start
-4_0,1257,D,
-5_0,63,O,Start slow turn
-5_0,66,O,End slow turn
-5_0,195,D,
-5_0,617,O,Close to W but short and directional
-5_0,619,O,Close to D but short and directional
-5_0,657,D,
-5_0,789,W,
-5_0,1033,O,"Position close to beach, probably close to B"
-6_0,668,O,Start slow turn
-6_0,671,O,End slow turn
-6_0,1144,D,
-6_0,1364,W,
-6_0,1398,O,"Position close to beach, probably close to B"
-7_0,117,O,Start slow turn
-7_0,124,O,End slow turn
-7_0,163,O,Start slow turn
-7_0,170,O,End slow turn
-8_0,154,D,
-8_0,215,W,
-9_0,32,D,
-9_0,46,W,
-9_0,129,D,
-9_0,244,W,Could also be carried
-9_0,253,D,
-9_0,314,O,Drifter carried to multiple spots
-9_0,375,W,
-9_0,395,D,
-10_0,680,O,Start uneven turn
-10_0,688,O,Stop uneven turn
-10_0,1052,O,Close to D but short
-10_0,1054,O,Close to W but short
-10_0,1183,D,
-10_0,1193,W,
-10_0,1324,D,
-10_0,1330,W,Slow start
-10_0,1331,O,Close to D but short
-10_0,1334,O,Close to W but short
-10_0,1732,O,Start uneven turn
-10_0,1740,O,Stop uneven turn
-10_0,1857,D,
-11_0,932,O,Start slow turn
-11_0,940,O,Stop slow turn
-11_0,1004,D,
-11_0,1024,W,
-11_0,1046,D,
-11_0,1050,W,
-11_0,1052,O,Start slow displacement
-11_0,1055,O,Stop slow displacement
-11_0,1085,D,
-11_0,1091,W,Short displacement
-11_0,1092,D,
-11_0,1180,W,Short displacement
-11_0,1190,D,
-11_0,1219,W,
-11_0,1475,D,
-11_0,1483,W,
-11_0,1740,O,Start slow turn
-11_0,1743,O,Stop slow turn
-11_0,1879,D,
-11_0,1906,W,
-11_0,1918,O,"Position close to beach, maybe short G"
-11_0,1998,D,
-11_0,2064,W,
-11_0,2067,O,Slow displacement
-11_0,2314,O,Start slow turn
-11_0,2317,O,Stop slow turn
-11_0,2456,O,Start slow turn
-11_0,2472,O,Stop slow turn
-11_0,2639,O,Start slow displacement
-11_0,2647,O,Stop slow displacement
-11_0,2655,D,
-11_0,2676,O,Short displacement
-11_0,2688,W,
-11_0,2696,D,
-12_0,514,O,Start uneven turn
-12_0,520,O,Stop uneven turn
-12_0,604,O,Start uneven turn
-12_0,611,O,Stop uneven turn
-12_0,755,D,
-13_0,561,O,Start uneven turn
-13_0,574,O,Stop uneven turn
-13_0,636,O,Start uneven turn
-13_0,640,O,Stop uneven turn
-13_0,1066,O,Abrupt change in floating trajectory
-13_0,1124,D,Slow settle
-13_0,1175,W,
-13_0,1182,D,
-13_0,1197,W,Slow start
-13_0,1224,D,
-15_0,70,O,Start slow and uneven turn
-15_0,87,O,Stop slow and uneven turn
-15_0,1123,D,
-15_0,1186,W,
-15_0,1188,D,
-15_0,1198,W,Slow start
-15_0,1226,D,
-16_0,68,O,Start slow and uneven turn
-16_0,74,O,Stop slow and uneven turn
-16_0,494,O,Start uneven turn
-16_0,500,O,Stop uneven turn
-16_0,1151,D,
-16_0,1156,W,Slow start
-16_0,1157,O,Unclear: Trace looks unphysical
-16_0,1294,D,
-16_0,1299,W,
-16_0,1816,D,Immediate beaching from deeper water
-17_0,628,D,
-17_0,643,W,Slow start
-17_0,745,D,Short time and distance displacement during time grounded
-17_0,776,W,Slow start
-17_0,830,D,
-17_0,879,W,
-17_0,899,O,Close to D but short and directional
-17_0,911,O,Close to W but short and directional
-17_0,917,D,Continued in 17_1
-17_1,93,W,
-17_1,116,D,
-17_1,395,W,
-17_1,1130,O,Start slow and narrow turn
-17_1,1135,O,Stop slow and narrow turn
-17_1,1348,D,
-17_1,1366,W,
-17_1,1595,O,"Position close to beach, probably close to B"
-18_0,248,O,Start uneven turn
-18_0,252,O,Stop uneven turn
-18_0,879,O,Start uneven turn
-18_0,882,O,Stop uneven turn
-18_0,1131,D,
-18_0,1176,W,
-18_0,1180,O,Close to D but short and directional
-18_0,1189,O,Close to W but short and directional
-18_0,1206,D,
-18_0,1223,W,
-18_0,1238,D,
-19_0,117,D,
-19_0,149,W,Slow start
-19_0,548,O,Start uneven turn
-19_0,551,O,Stop uneven turn
-19_0,687,O,Start uneven turn
-19_0,690,O,Stop uneven turn
-19_0,813,D,
-19_0,901,O,Short displacement likely carried
-19_0,1077,O,Short displacement likely carried
-20_0,635,O,Start slow and narrow turn
-20_0,639,O,Stop slow and narrow turn
-20_0,1135,D,
-20_0,1161,W,Slow start
-20_0,1162,O,Close to D but directional and slow
-20_0,1203,O,Close to W but directional and slow
-20_0,1225,D,
-21_0,124,D,
-21_0,149,W,Slow start
-21_0,253,D,
-21_0,301,W,
-21_0,425,D,Not clear
-21_0,434,W,Not clear
-21_0,495,D,Slow stop
-21_0,594,W,Slow uneven start
-21_0,955,D,
-21_0,1059,W,Could well be carried to B
-21_0,1070,D,
-22_0,571,O,Start slow and uneven turn
-22_0,578,O,Stop slow and uneven turn
-22_0,720,O,Start slow and uneven turn
-22_0,729,O,Stop slow and uneven turn
-22_0,1095,D,
-22_0,1339,W,
-22_0,1572,D,
-22_0,1586,W,Slow start
-22_0,1839,D,
-22_0,1922,W,Slow and uneven start
-22_0,2021,O,Start slow and uneven section
-22_0,2024,O,Stop slow and uneven section
-22_0,2082,O,Start slow and uneven turn
-22_0,2086,O,Stop slow and uneven turn
-22_0,2110,D,
-22_0,2233,W,
-22_0,2238,D,
-22_0,2342,W,
-22_0,2366,O,Start slow turn
-22_0,2370,O,Stop slow turn
-22_0,2389,D,
-23_0,480,O,Start slow and uneven turn
-23_0,487,O,Stop slow and uneven turn
-23_0,1018,O,Start slow and uneven turn
-23_0,1022,O,Stop slow and uneven turn
-23_0,1111,D,
-23_0,1168,W,
-23_0,1176,D,
-23_0,1188,W,Slow start
-23_0,1213,D,
-24_0,182,D,
-25_0,81,D,Slow stop
-25_0,288,O,Picked up
-25_0,295,O,Put down
-25_0,374,O,Picked up
-25_0,383,O,Put down
-25_0,557,O,Picked up
-26_0,489,O,Start uneven turn
-26_0,495,O,Stop uneven turn
-26_0,630,O,Start uneven turn
-26_0,635,O,Stop uneven turn
-26_0,1106,D,
-26_0,1179,W,
-26_0,1200,D,Slow stop
-26_0,1213,W,
-26_0,1226,D,
-27_0,114,D,
-27_0,147,W,Slow start
-27_0,794,D,
-27_0,908,O,Picked up (likely)
-28_0,630,O,Start slow turn
-28_0,635,O,Stop slow turn
-28_0,1149,D,
-28_0,1161,W,
-28_0,1293,D,
-28_0,1298,W,
-28_0,1872,D,
-28_0,1893,W,
-28_0,1918,D,
-28_0,2079,O,Small and slow displacement
-28_0,2351,W,Slow and uneven start
-28_0,2353,O,Start slow displacement
-28_0,2369,O,Stop slow displacement
-28_0,2417,D,Uneven stop
-28_0,2489,W,Slow start
-28_0,2513,O,Slow displacement
-28_0,2526,O,Slow turn
-28_0,2541,D,
-29_0,713,O,Start slow turn
-29_0,721,O,Stop slow turn
-29_0,1106,D,
-29_0,1170,W,Slow start
-29_0,1181,D,
-29_0,1188,W,
-29_0,1207,D,
-30_0,491,O,Start slow turn
-30_0,495,O,Stop slow turn
-30_0,1122,D,
-30_0,1162,W,Slow start
+legends,,tag,topo_hms,topo_type,
+,,D drying,Y yes,S sand dry vegetation,
+,,W wetting,N no,T tidalflat mudflat,
+,,O other,,W water,
+,,,,M marsh,
+ts_name,ind_start,tag,topo_hms,topo_type,comment
+0_0,668,D,Y,T,
+0_0,686,W,Y,T,
+0_0,933,D,Y,T,
+0_0,1505,W,Y,T,
+1_0,920,O,,,Close to D but short and directional
+1_0,923,O,,,Close to W but short and directional
+1_0,1157,D,N,T,
+1_0,1209,W,N,T,
+1_0,1215,D,Y,T,
+1_0,1229,W,Y,T,Slow start
+1_0,1258,D,Y,T,
+2_0,118,D,N,T,
+2_0,147,W,N,T,Slow start
+2_0,868,D,Y,T,
+2_0,902,W,Y,T,
+2_0,908,O,,,Close to D but short and directional
+2_0,915,O,,,Close to W but short and directional
+2_0,924,O,,,Close to D but short
+2_0,927,O,,,Close to W but short
+2_0,932,D,Y,M,
+3_0,432,O,,,"Position close to beach, probably close to B"
+4_0,1059,O,,,Close to D but short and directional
+4_0,1066,O,,,Close to W but short and directional
+4_0,1157,D,N,T,
+4_0,1208,W,N,T,
+4_0,1215,D,Y,T,
+4_0,1228,W,Y,T,Slow start
+4_0,1257,D,Y,T,
+5_0,63,O,,,Start slow turn
+5_0,66,O,,,End slow turn
+5_0,195,D,N,T,
+5_0,617,O,,,Close to W but short and directional
+5_0,619,O,,,Close to D but short and directional
+5_0,657,D,N,T,
+5_0,789,W,N,T,
+5_0,1033,O,,,"Position close to beach, probably close to B"
+6_0,668,O,,,Start slow turn
+6_0,671,O,,,End slow turn
+6_0,1144,D,Y,T,
+6_0,1364,W,Y,T,
+6_0,1398,O,,,"Position close to beach, probably close to B"
+7_0,117,O,,,Start slow turn
+7_0,124,O,,,End slow turn
+7_0,163,O,,,Start slow turn
+7_0,170,O,,,End slow turn
+8_0,154,D,Y,W,
+8_0,215,W,Y,W,
+9_0,32,D,N,T,
+9_0,46,W,N,T,
+9_0,129,D,Y,T,
+9_0,244,W,Y,T,Could also be carried
+9_0,253,D,Y,T,
+9_0,314,O,,,Drifter carried to multiple spots
+9_0,375,W,Y,T,
+9_0,395,D,Y,T,
+10_0,680,O,,,Start uneven turn
+10_0,688,O,,,Stop uneven turn
+10_0,1052,O,,,Close to D but short
+10_0,1054,O,,,Close to W but short
+10_0,1183,D,N,T,
+10_0,1193,W,N,T,
+10_0,1324,D,N,T,
+10_0,1330,W,N,T,Slow start
+10_0,1331,O,,,Close to D but short
+10_0,1334,O,,,Close to W but short
+10_0,1732,O,,,Start uneven turn
+10_0,1740,O,,,Stop uneven turn
+10_0,1857,D,N,T,
+11_0,932,O,,,Start slow turn
+11_0,940,O,,,Stop slow turn
+11_0,1004,D,N,T,
+11_0,1024,W,N,T,
+11_0,1046,D,N,T,
+11_0,1050,W,N,T,
+11_0,1052,O,,,Start slow displacement
+11_0,1055,O,,,Stop slow displacement
+11_0,1085,D,N,T,
+11_0,1091,W,N,T,Short displacement
+11_0,1092,D,N,T,
+11_0,1180,W,N,T,Short displacement
+11_0,1190,D,N,T,
+11_0,1219,W,N,T,
+11_0,1475,D,Y,W,
+11_0,1483,W,Y,W,
+11_0,1740,O,,,Start slow turn
+11_0,1743,O,,,Stop slow turn
+11_0,1879,D,N,T,
+11_0,1906,W,N,T,
+11_0,1918,O,,,"Position close to beach, maybe short G"
+11_0,1998,D,N,T,
+11_0,2064,W,N,T,
+11_0,2067,O,,,Slow displacement
+11_0,2314,O,,,Start slow turn
+11_0,2317,O,,,Stop slow turn
+11_0,2456,O,,,Start slow turn
+11_0,2472,O,,,Stop slow turn
+11_0,2639,O,,,Start slow displacement
+11_0,2647,O,,,Stop slow displacement
+11_0,2655,D,N,S,
+11_0,2676,O,,,Short displacement
+11_0,2688,W,N,S,
+11_0,2696,D,N,S,
+12_0,514,O,,,Start uneven turn
+12_0,520,O,,,Stop uneven turn
+12_0,604,O,,,Start uneven turn
+12_0,611,O,,,Stop uneven turn
+12_0,755,D,N,T,
+13_0,561,O,,,Start uneven turn
+13_0,574,O,,,Stop uneven turn
+13_0,636,O,,,Start uneven turn
+13_0,640,O,,,Stop uneven turn
+13_0,1066,O,,,Abrupt change in floating trajectory
+13_0,1124,D,N,T,Slow settle
+13_0,1175,W,N,T,
+13_0,1182,D,Y,T,
+13_0,1197,W,Y,T,Slow start
+13_0,1224,D,Y,T,
+15_0,70,O,,,Start slow and uneven turn
+15_0,87,O,,,Stop slow and uneven turn
+15_0,1123,D,N,T,
+15_0,1186,W,N,T,
+15_0,1188,D,Y,T,
+15_0,1198,W,Y,T,Slow start
+15_0,1226,D,Y,T,
+16_0,68,O,,,Start slow and uneven turn
+16_0,74,O,,,Stop slow and uneven turn
+16_0,494,O,,,Start uneven turn
+16_0,500,O,,,Stop uneven turn
+16_0,1151,D,N,T,
+16_0,1156,W,N,T,Slow start
+16_0,1157,O,,,Unclear: Trace looks unphysical
+16_0,1294,D,N,T,
+16_0,1299,W,N,T,
+16_0,1816,D,N,T,Immediate beaching from deeper water
+17_0,628,D,Y,T,
+17_0,643,W,Y,T,Slow start
+17_0,745,D,Y,W,Short time and distance displacement during time grounded
+17_0,776,W,Y,W,Slow start
+17_0,830,D,Y,W,
+17_0,879,W,Y,W,
+17_0,899,O,,,Close to D but short and directional
+17_0,911,O,,,Close to W but short and directional
+17_0,917,D,Y,W,Continued in 17_1
+17_1,93,W,Y,W,
+17_1,116,D,Y,W,
+17_1,395,W,Y,W,
+17_1,1130,O,,,Start slow and narrow turn
+17_1,1135,O,,,Stop slow and narrow turn
+17_1,1348,D,N,T,
+17_1,1366,W,N,T,
+17_1,1595,O,,,"Position close to beach, probably close to B"
+18_0,248,O,,,Start uneven turn
+18_0,252,O,,,Stop uneven turn
+18_0,879,O,,,Start uneven turn
+18_0,882,O,,,Stop uneven turn
+18_0,1131,D,N,T,
+18_0,1176,W,N,T,
+18_0,1180,O,,,Close to D but short and directional
+18_0,1189,O,,,Close to W but short and directional
+18_0,1206,D,Y,T,
+18_0,1223,W,Y,T,
+18_0,1238,D,Y,T,
+19_0,117,D,N,T,
+19_0,149,W,N,T,Slow start
+19_0,548,O,,,Start uneven turn
+19_0,551,O,,,Stop uneven turn
+19_0,687,O,,,Start uneven turn
+19_0,690,O,,,Stop uneven turn
+19_0,813,D,N,S,
+19_0,901,O,,,Short displacement likely carried
+19_0,1077,O,,,Short displacement likely carried
+20_0,635,O,,,Start slow and narrow turn
+20_0,639,O,,,Stop slow and narrow turn
+20_0,1135,D,N,T,
+20_0,1161,W,N,T,Slow start
+20_0,1162,O,,,Close to D but directional and slow
+20_0,1203,O,,,Close to W but directional and slow
+20_0,1225,D,Y,T,
+21_0,124,D,N,T,
+21_0,149,W,N,T,Slow start
+21_0,253,D,N,T,
+21_0,301,W,N,T,
+21_0,425,D,N,T,Not clear
+21_0,434,W,N,T,Not clear
+21_0,495,D,N,S,Slow stop
+21_0,594,W,N,S,Slow uneven start
+21_0,955,D,Y,T,
+21_0,1059,W,Y,T,Could well be carried to B
+21_0,1070,D,Y,T,
+22_0,571,O,,,Start slow and uneven turn
+22_0,578,O,,,Stop slow and uneven turn
+22_0,720,O,,,Start slow and uneven turn
+22_0,729,O,,,Stop slow and uneven turn
+22_0,1095,D,Y,T,
+22_0,1339,W,Y,T,
+22_0,1572,D,N,T,
+22_0,1586,W,N,T,Slow start
+22_0,1839,D,N,T,
+22_0,1922,W,N,T,Slow and uneven start
+22_0,2021,O,,,Start slow and uneven section
+22_0,2024,O,,,Stop slow and uneven section
+22_0,2082,O,,,Start slow and uneven turn
+22_0,2086,O,,,Stop slow and uneven turn
+22_0,2110,D,N,T,
+22_0,2233,W,N,T,
+22_0,2238,D,N,S,
+22_0,2342,W,N,S,
+22_0,2366,O,,,Start slow turn
+22_0,2370,O,,,Stop slow turn
+22_0,2389,D,Y,S,
+23_0,480,O,,,Start slow and uneven turn
+23_0,487,O,,,Stop slow and uneven turn
+23_0,1018,O,,,Start slow and uneven turn
+23_0,1022,O,,,Stop slow and uneven turn
+23_0,1111,D,N,T,
+23_0,1168,W,N,T,
+23_0,1176,D,Y,T,
+23_0,1188,W,Y,T,Slow start
+23_0,1213,D,Y,T,
+24_0,182,D,N,T,
+25_0,81,D,N,T,Slow stop
+25_0,288,O,,,Picked up
+25_0,295,O,,,Put down
+25_0,374,O,,,Picked up
+25_0,383,O,,,Put down
+25_0,557,O,,,Picked up
+26_0,489,O,,,Start uneven turn
+26_0,495,O,,,Stop uneven turn
+26_0,630,O,,,Start uneven turn
+26_0,635,O,,,Stop uneven turn
+26_0,1106,D,Y,T,
+26_0,1179,W,Y,T,
+26_0,1200,D,Y,T,Slow stop
+26_0,1213,W,Y,T,
+26_0,1226,D,Y,T,
+27_0,114,D,N,T,
+27_0,147,W,N,T,Slow start
+27_0,794,D,N,S,
+27_0,908,O,,,Picked up (likely)
+28_0,630,O,,,Start slow turn
+28_0,635,O,,,Stop slow turn
+28_0,1149,D,N,T,
+28_0,1161,W,N,T,
+28_0,1293,D,N,T,
+28_0,1298,W,N,T,
+28_0,1872,D,N,T,
+28_0,1893,W,N,T,
+28_0,1918,D,N,T,
+28_0,2079,O,,,Small and slow displacement
+28_0,2351,W,N,T,Slow and uneven start
+28_0,2353,O,,,Start slow displacement
+28_0,2369,O,,,Stop slow displacement
+28_0,2417,D,N,T,Uneven stop
+28_0,2489,W,N,T,Slow start
+28_0,2513,O,,,Slow displacement
+28_0,2526,O,,,Slow turn
+28_0,2541,D,N,S,
+29_0,713,O,,,Start slow turn
+29_0,721,O,,,Stop slow turn
+29_0,1106,D,N,T,
+29_0,1170,W,Y,T,Slow start
+29_0,1181,D,Y,T,
+29_0,1188,W,Y,T,
+29_0,1207,D,Y,T,
+30_0,491,O,,,Start slow turn
+30_0,495,O,,,Stop slow turn
+30_0,1122,D,N,T,
+30_0,1162,W,N,T,Slow start
