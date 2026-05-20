@@ -35,7 +35,7 @@ The research project is part of the Vici ENW programme ['Tracing Marine Macropla
 | Figure I1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 | Figure J1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 
-Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) with different parameters and/or small code modifications
+Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) with different parameters and/or small script modifications
 
 ## Notebooks structure
 
@@ -59,7 +59,7 @@ Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterizati
 | Type | Name / Designator | Source / Provider | Open access | Link (last access YYYY-MM-DD) |
 | - | - | - | - | - |
 | Drifter trajectories | Wadden Sea drifter trajectories 2023 | Zenodo | X | https://zenodo.org/records/14199027 (2025-09-16) |
-| Bathymetry | H1. Bathymetrie (2019)  | Waddenregister  | X | https://datahuiswadden.openearth.nl/geonetwork/srv/dut/catalog.search#/metadata/eRwjLet8Qhy_Xc9OHANsqw (2025-09-02) |
+| Bathymetry | H1. Bathymetrie (2019)  | Waddenregister  | X | https://datahuiswadden.openearth.nl/ (2025-09-02) |
 | Water-levels | swan_kuststrook_harmonie | MATROOS, Rijkswaterstaat  |  | https://iplo.nl/thema/water/applicaties-modellen/berichtgeving-crisismanagement/matroos (2025-09-19) |
 | Wind | ERA5 wind uv hourly 10m | Copernicus Climate Change Service (C3S) | X | https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels (2025-09-02) |
 | Grounding events | Manual codings | in directory ./data/in/ | - | - |
