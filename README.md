@@ -1,8 +1,8 @@
 # Source-Code for Submission "Groundings of Drifters in the Wadden Sea Inform the Transport of Floating Macroplastic"
 
-## Author References & Funding
+## References, authors and funding
 
-* Repository citation DOI https://doi.org/10.5281/zenodo.17865410 [TODO need to update DOI?]
+* Repository citation DOI https://doi.org/10.5281/zenodo.17865410
 
 * Main author: Marc Schneiter, PhD candidate (m.e.schneiter-at-uu.nl) ORCID https://orcid.org/0009-0002-6450-4171
 
@@ -54,7 +54,9 @@ Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterizati
 | 1 | 0.75 |
 | 1 | 0.88 |
 
-## Input Datasets
+* Remark: In this version the terms 'wetting' (W), 'drying' (D) and 'beaching' (B) are used interchangeably with 'grounding' (G) and 'resuspension' (R) in the source code, data labels, and ducumentation
+
+## Input datasets
 
 | Type | Name / Designator | Source / Provider | Open access | Link (last access YYYY-MM-DD) |
 | - | - | - | - | - |
@@ -104,11 +106,11 @@ cd <GITDIR>
 jupyter-lab
 ```
 
-## Version History
+## Version history of GitHub releases and publication stages
 
-19 May 2026 Response | [(release)](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Response) [TODO add link to response / need to update DOI?]
+20 May 2026 Revision [TODO add link] | [Paper Revision Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Revision)
 
-10 Dec 2025 [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-6170/) | https://doi.org/10.5281/zenodo.17865410
+10 Dec 2025 [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-6170/) | [Paper Submission Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Submission)
 
 ## License
 
