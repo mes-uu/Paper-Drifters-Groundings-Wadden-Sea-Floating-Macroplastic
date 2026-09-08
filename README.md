@@ -58,16 +58,16 @@ Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterizati
 
 ## Input datasets
 
-| Type | Name / Designator | Source / Provider | Open access | Link (last access YYYY-MM-DD) |
+| Type | Name / Designator | Source / Provider | Open access | Link (website and dataset accessed YYYY-MM-DD) |
 | - | - | - | - | - |
-| Drifter trajectories | Wadden Sea drifter trajectories 2023 | Zenodo | X | https://zenodo.org/records/14199027 (2025-09-16) |
-| Bathymetry | H1. Bathymetrie (2019)  | Waddenregister  | X | https://datahuiswadden.openearth.nl/ (2025-09-02) |
-| Water-levels | swan_kuststrook_harmonie | MATROOS, Rijkswaterstaat  |  | https://iplo.nl/thema/water/applicaties-modellen/berichtgeving-crisismanagement/matroos (2025-09-19) |
-| Wind | ERA5 wind uv hourly 10m | Copernicus Climate Change Service (C3S) | X | https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels (2025-09-02) |
+| Drifter trajectories | Wadden Sea drifter trajectories 2023 | Zenodo | X | https://zenodo.org/records/14199027 (2026-09-08) |
+| Bathymetry | H1. Bathymetrie (2019)  | Waddenregister  | X | https://datahuiswadden.openearth.nl/ (2026-09-08) |
+| Water-levels | swan_kuststrook_harmonie | MATROOS, Rijkswaterstaat  |  | https://iplo.nl/thema/water/applicaties-modellen/berichtgeving-crisismanagement/matroos (2026-09-08) |
+| Wind | ERA5 wind uv hourly 10m | Copernicus Climate Change Service (C3S) | X | https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels (2026-09-08) |
 | Grounding events | Manual codings | in directory ./data/in/ | - | - |
-| (optional) Water-levels alternative [1] | waterinfo_rws | Rijkswaterstaat  | X | https://waterinfo.rws.nl/publiek/waterhoogte/ (2026-05-16) |
+| (optional) Water-levels alternative [1] | waterinfo_rws | Rijkswaterstaat  | X | https://waterinfo.rws.nl/publiek/waterhoogte/ (2026-09-08) |
 
-For questions about dataset availabilities, contact https://orcid.org/0009-0002-6450-4171
+Detailed download instructions are provided as code documentation at the import statements. For questions about dataset availabilities, contact https://orcid.org/0009-0002-6450-4171
 
 The approximate total size is 4GB
 
