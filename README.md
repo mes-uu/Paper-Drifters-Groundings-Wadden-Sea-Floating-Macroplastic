@@ -60,12 +60,12 @@ Remark: Figures A5,B1,C1,C2 require running the corresponding notebooks with dif
 
 | Type | Name / Designator | Source / Provider | Open access | Link (website and dataset accessed YYYY-MM-DD) |
 | - | - | - | - | - |
-| Drifter trajectories | Wadden Sea drifter trajectories 2023 | Zenodo | X | https://zenodo.org/records/14199027 (2026-09-08) |
-| Bathymetry | H1. Bathymetrie (2019)  | Waddenregister  | X | https://datahuiswadden.openearth.nl/ (2026-09-08) |
-| Water-levels | swan_kuststrook_harmonie | MATROOS, Rijkswaterstaat  |  | https://iplo.nl/thema/water/applicaties-modellen/berichtgeving-crisismanagement/matroos (2026-09-08) |
-| Wind | ERA5 wind uv hourly 10m | Copernicus Climate Change Service (C3S) | X | https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels (2026-09-08) |
+| Drifter trajectories | Wadden Sea drifter trajectories 2023 | Zenodo | Yes | https://zenodo.org/records/14199027 (2026-09-08) |
+| Bathymetry | H1. Bathymetrie (2019)  | Waddenregister  | Yes | https://datahuiswadden.openearth.nl/ (2026-09-08) |
+| Water-levels | swan_kuststrook_harmonie | MATROOS, Rijkswaterstaat  | No (see alternative waterinfo_rws below) | https://iplo.nl/thema/water/applicaties-modellen/berichtgeving-crisismanagement/matroos (2026-09-08) |
+| Wind | ERA5 wind uv hourly 10m | Copernicus Climate Change Service (C3S) | Yes | https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels (2026-09-08) |
 | Grounding events | Manual codings | in directory ./data/in/ | - | - |
-| (optional) Water-levels alternative [1] | waterinfo_rws | Rijkswaterstaat  | X | https://waterinfo.rws.nl/publiek/waterhoogte/ (2026-09-08) |
+| (optional) Water-levels alternative [1] | waterinfo_rws | Rijkswaterstaat  | Yes | https://waterinfo.rws.nl/publiek/waterhoogte/ (2026-09-08) |
 
 Detailed download instructions are provided as code documentation at the import statements. For questions about dataset availabilities, contact https://orcid.org/0009-0002-6450-4171
 
