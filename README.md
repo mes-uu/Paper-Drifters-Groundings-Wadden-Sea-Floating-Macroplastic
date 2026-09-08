@@ -1,4 +1,4 @@
-# Source-Code for Submission "Groundings of Drifters in the Wadden Sea Inform the Transport of Floating Macroplastic"
+# Source-Code for Publication "Groundings of Drifters in the Wadden Sea Inform the Transport of Floating Macroplastic"
 
 ## References, authors and funding
 
