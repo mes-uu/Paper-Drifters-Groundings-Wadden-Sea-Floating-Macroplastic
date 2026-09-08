@@ -108,9 +108,11 @@ jupyter-lab
 
 ## Version history of GitHub releases and publication stages
 
-20 May 2026 Revision [TODO add link] | [Paper Revision Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Revision)
+08 September 2026 [TODO add link] | [Article Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Article)
 
-10 Dec 2025 [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-6170/) | [Paper Submission Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Submission)
+20 May 2026 Revision [TODO add link] | [Preprint Revision Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Revision)
+
+10 Dec 2025 [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-6170/) | [Preprint Submission Source-Code](https://github.com/mes-uu/Paper-Drifters-Groundings-Wadden-Sea-Floating-Macroplastic/releases/tag/Paper-Submission)
 
 ## License
 
