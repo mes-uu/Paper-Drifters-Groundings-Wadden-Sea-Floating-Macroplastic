@@ -27,15 +27,15 @@ The research project is part of the Vici ENW programme ['Tracing Marine Macropla
 | Figure 7 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 | Figure 8 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 | Figure A1 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
-| Figure B1 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
-| Figure C1 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
-| Figure D1 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
-| Figure E1 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
-| Figure G1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
-| Figure I1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
-| Figure J1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
+| Figure A2 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure A3 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure A4 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure A5 | [2_1_campaign_summary_plots](2_1_campaign_summary_plots.ipynb) |
+| Figure B1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
+| Figure C1 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
+| Figure C2 | [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) |
 
-Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterization](2_1_grounding_events_characterization.ipynb) with different parameters and/or small script modifications
+Remark: Figures A5,B1,C1,C2 require running the corresponding notebooks with different parameters and/or script modifications
 
 ## Notebooks structure
 
