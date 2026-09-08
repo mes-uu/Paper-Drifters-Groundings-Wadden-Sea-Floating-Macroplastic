@@ -69,7 +69,7 @@ Remark: Figures E1,G1,I1,J1 require running [2_1_grounding_events_characterizati
 
 Detailed download instructions are provided as code documentation at the import statements. For questions about dataset availabilities, contact https://orcid.org/0009-0002-6450-4171
 
-The approximate total size is 4GB
+The approximate total size is 10GB
 
 [1] This dataset will not reproduce the results discussed in the paper, it is a low-resolution open access alternative to 'swan_kuststrook_harmonie' that can be used by setting the parameter 'which_waterlevel_dataset' at the beginning of the notebook '2_0_datasets_preparation'
 
